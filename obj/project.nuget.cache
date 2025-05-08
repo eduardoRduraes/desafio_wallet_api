@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RBpqzL9SNaM=",
+  "dgSpecHash": "yPy0+Ctpcp4=",
   "success": true,
-  "projectFilePath": "D:\\rider-project\\walletapi\\WalletAPI.csproj",
+  "projectFilePath": "D:\\riderProject\\desafio_wallet_api\\WalletAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edu_o\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Edu_o\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.1\\microsoft.aspnetcore.authentication.jwtbearer.9.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\rider-project\\walletapi\\WalletAPI.csproj": {}
+    "D:\\riderProject\\desafio_wallet_api\\WalletAPI.csproj": {}
   },
   "projects": {
-    "D:\\rider-project\\walletapi\\WalletAPI.csproj": {
+    "D:\\riderProject\\desafio_wallet_api\\WalletAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\rider-project\\walletapi\\WalletAPI.csproj",
+        "projectUniqueName": "D:\\riderProject\\desafio_wallet_api\\WalletAPI.csproj",
         "projectName": "WalletAPI",
-        "projectPath": "D:\\rider-project\\walletapi\\WalletAPI.csproj",
+        "projectPath": "D:\\riderProject\\desafio_wallet_api\\WalletAPI.csproj",
         "packagesPath": "C:\\Users\\Edu_o\\.nuget\\packages\\",
-        "outputPath": "D:\\rider-project\\walletapi\\obj\\",
+        "outputPath": "D:\\riderProject\\desafio_wallet_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edu_o\\AppData\\Roaming\\NuGet\\NuGet.Config"

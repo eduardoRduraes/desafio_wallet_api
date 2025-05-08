@@ -20,8 +20,7 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 # Porta que será exposta
-EXPOSE 5000
-EXPOSE 5001
+EXPOSE 8080
 
 # Iniciar a aplicação
 ENTRYPOINT ["dotnet", "WalletAPI.dll"]
