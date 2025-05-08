@@ -113,16 +113,6 @@ Caso prefira executar o projeto sem Docker, siga os passos abaixo:
 
 ---
 
-## ✨ Scripts de Demonstração
-
-Para popular o banco de dados com dados fictícios, utilize o script incluído no projeto. Ele cria usuários, carteiras e transações para demonstração.
-
-```bash
-dotnet run seed
-```
-
----
-
 ## 🏗 Estrutura do Projeto
 
 - **Controllers**: Contêm a lógica de roteamento da API.
@@ -138,8 +128,6 @@ dotnet run seed
 Além dos requisitos básicos do desafio, este projeto inclui:
 
 - **Docker**: Para fácil configuração e execução.
-- **Testes Unitários**: Feitos com `xUnit` e `Moq`.
-- **Linter**: Garantia de código limpo e organizado.
 
 ---
 
